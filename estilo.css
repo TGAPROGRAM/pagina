@@ -1,0 +1,26 @@
+.prueba {
+	position: center;
+	color: green;
+}
+
+
+img{
+	width: 100 px;
+height: 100px;
+}
+
+.festa{
+	position: relative;
+	font-size: 100px;
+}
+
+h1 {
+	font-size: 180px;
+	font-family: Dancing Script;
+	line-height: 0;
+}
+
+b {
+	font-size: 25px;
+	font-family: Tulpen One;
+}
