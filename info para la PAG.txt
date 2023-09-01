@@ -3,9 +3,9 @@
 °click en imagen de producto, te redirije a la informacion y el precio
  en la misma pagina (falta informacion del cliente)
 °
-°
-°
-°
+°h1 festa que te mande al index
+°nav en todas las paginas
+°comentario para que los clientes pidan piñatas
 °
 °
 °
