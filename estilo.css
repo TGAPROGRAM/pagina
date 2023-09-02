@@ -57,6 +57,7 @@ nav .festa {
     margin: 0;
     padding: 0;
     display: inline-block;
+    color: white;
 }
 
 .festa:hover {
