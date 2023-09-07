@@ -1,0 +1,139 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #fdfd96;
+}
+
+/* Estilos para el encabezado */
+header {
+    background-color: #fabfb7;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+    position: sticky;
+    top: 0.5px;
+    display: block;
+    
+   
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    
+}
+
+
+nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+nav .festa {
+    font-size: 36px;
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    color: white;
+}
+
+.festa:hover {
+	color: black;
+}
+
+.wpp_img {
+	width: 35px;
+	height: 35px;
+	left: 70px;
+	top: 51px;
+	
+	position: absolute;
+	
+}
+
+.ig_img {
+	width: 40px;
+	height: 40px;
+	left: 20px;
+	top: 48px;
+	position: absolute;
+}
+
+
+}
+
+#hola {
+	color: green;
+}
+
+}
+
+li li div {
+	display: inline-block;
+}
+
+}
+
+div h3 {
+	text-align: center;
+	font-size: 20px;
+
+}
+
+
+/* Estilos para el formulario y contenido */
+form {
+    margin: 20px auto;
+    max-width: 400px;
+}
+
+form ul {
+    list-style: none;
+    padding: 0;
+}
+
+form ul li {
+    margin-bottom: 10px;
+}
+
+form input[type="text"],
+form input[type="number"] {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+form input[type="submit"] {
+    background-color: #333;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+/* Estilos para el footer */
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #333;
+    color: white;
+}
+
+div img {
+	width: 190px;
+	height: 190px;
+	margin: 7px;
+	border: 1px solid black;
+	box-shadow: 1px;
+}
+
+div img:hover {
+	width: 220px;
+	height: 220px;
+	 
+
+}
