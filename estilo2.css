@@ -25,55 +25,90 @@ nav ul {
     
 }
 
+.lugar {
+    position: absolute;
+    left: 70%;
+    top: 100px;
+    color: black;
+    font-size: 13px;
+}
+
+.lugar a {
+    color: #00f5f5;
+    
+}
+
+.lugar a:hover {
+    transition: .5s;
+    color: red;
+}
+
+.nos {
+    position: absolute;
+    right: 85%;
+    top: 100px;
+    color: black;
+}
+
+.nos a {
+    color: #00f5f5;
+    text-decoration: none;
+}
+
 
 nav ul li {
-    display: inline-block;
+    display: block;
     margin-right: 20px;
 }
 
+/* FESTA TITULO */
 nav .festa {
-    font-size: 36px;
+    font-size: 60px;
     margin: 0;
+    padding: 0;
+    display: inline-block;
+    color: white;
+    font-family: 'Dancing Script', cursive;
+}
+
+nav .festa2 {
+    font-size: 30px;
+    margin: 5px;
     padding: 0;
     display: inline-block;
     color: white;
 }
 
+nav .festa a{
+    color: white;
+    text-decoration: none;
+}
+
+nav .festa a:hover {
+    color: black;
+}
+/* FESTA TITULO */
+
 .festa:hover {
-	color: black;
+    color: black;
 }
-
+/* IMAGEN WPP REDES */
 .wpp_img {
-	width: 35px;
-	height: 35px;
-	left: 70px;
-	top: 51px;
-	
-	position: absolute;
-	
+    width: 35px;
+    height: 35px;
+    left: 70px;
+    top: 51px;
+    
+    position: absolute;
+    
 }
-
+/* IMAGEN IG REDES */
 .ig_img {
-	width: 40px;
-	height: 40px;
-	left: 20px;
-	top: 48px;
-	position: absolute;
-}
-
-
-}
-
-#hola {
-	color: green;
-}
-
-}
-
-li li div {
-	display: inline-block;
-}
-
+    width: 40px;
+    height: 40px;
+    left: 20px;
+    top: 48px;
+    position: absolute;
 }
 
 div h3 {
